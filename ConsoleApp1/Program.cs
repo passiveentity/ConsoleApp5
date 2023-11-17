@@ -27,6 +27,7 @@ namespace ConsoleApp1
             Table(0, Math.PI / 10, Math.PI, function);
             function = cos_;
             Table(0, Math.PI / 10, Math.PI, function);
+            Console.WriteLine("АААА");
 
             Console.ReadKey();
         }
